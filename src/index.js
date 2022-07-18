@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles/styles.scss';
 
+;
 const user = {
   name: 'Rany ElHousieny',
   profile: 'https://rany.tk',
